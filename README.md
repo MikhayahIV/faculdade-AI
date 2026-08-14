@@ -16,13 +16,13 @@ python exercicios_python.py
 
 ou o google colab (que foi utilizado para realizar esses exercicios)
 
-O script executa os 50 exercícios em sequência, na ordem do enunciado. Alguns pedem que o usuário digite valores pelo terminal (`input()`) — acompanhe a saída do console para saber quando digitar algo.
+O script executa os 50 exercícios em sequência, na ordem do enunciado. Alguns pedem que o usuário digite valores pelo terminal (`input()`), acompanhe a saída do console para saber quando digitar algo.
 
 > O exercício 28 usa a biblioteca `matplotlib` para gerar um gráfico. Caso não esteja instalada, rode `pip install matplotlib` antes de executar.
 obs: apenas se não for utilizar o google colab
 ## Estrutura
 
-O código está todo em um único arquivo, `exercicios_python.py`, dividido em blocos numerados e comentados — um para cada exercício, na ordem da lista original.
+O código está todo em um único arquivo, `exercicios_python.py`, dividido em blocos numerados e comentados, um para cada exercício, na ordem da lista original.
 
 Cada bloco contém:
 - O código da solução

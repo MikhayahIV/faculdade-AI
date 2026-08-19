@@ -2,7 +2,7 @@
 
 Repositório com as atividades práticas da disciplina de Inteligência Artificial
 
-A branch `main` não contém código - cada biblioteca é resolvida em uma branch própria. Use os links abaixo para acessar os exercícios.
+A branch `main` não contém código. Cada biblioteca é resolvida em uma branch própria. Use os links abaixo para acessar os exercícios.
 
 ## Branches
 

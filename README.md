@@ -13,4 +13,4 @@ A branch `main` não contém código. Cada atividade é resolvida em uma branch 
 
 ## Autor
 
-Vitor Dias Blaia
+Vitor  Blaia
